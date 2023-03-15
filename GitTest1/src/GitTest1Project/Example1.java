@@ -8,6 +8,7 @@ public class Example1 {
 		int n2 = arr2.length + 1;
 		int missingNumber1 = findMissingNumber(arr1, n1);
 		int missingNumber2 = findMissingNumber(arr2, n2);
+		// this code is copy from Chatgpt
 		System.out.println("Missing number in arr1: " + missingNumber1);
 		System.out.println("Missing number in arr2: " + missingNumber2);
 	}
